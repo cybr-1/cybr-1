@@ -2,6 +2,7 @@ Welcome 👋 Feel free to wander around and grab whatever picks your fancy!
 
 Here's a list of some of my current public repos
 
+- **[Cyber Swiss Army Knife](https://github.com/cybr-1/CSAK)**
 - **[Hunting Queries](https://github.com/cybr-1/hunting-queries)**
 - **[PowerBI Dashboards](https://github.com/cybr-1/power-bi)**
 
